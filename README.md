@@ -7,4 +7,4 @@
 📚 Currently learning Next.js, TypeScript, and building impactful digital products  
 🌸 On a mission to become a visionary builder, confident speaker, and creative problem solver
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ifechukwuokuma=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ifechukwuokuma=ifechukwuokuma)](https://github.com/anuraghazra/github-readme-stats)
