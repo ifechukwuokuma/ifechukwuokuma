@@ -27,12 +27,9 @@
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 
-### 🎥 Latest YouTube Videos
-
+## 🎥 Latest YouTube Videos
 <!-- YOUTUBE-CARDS:START -->
-[![Becoming Her in Tech – The Journey Begins](https://ytcards.demolab.com/?id=YOUR_VIDEO_ID1&title=Becoming+Her+in+Tech+%E2%80%93+The+Journey+Begins&lang=en&timestamp=1761941401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=300 "Becoming Her in Tech – The Journey Begins")](https://www.youtube.com/watch?v=YOUR_VIDEO_ID1)
-[![Balancing Code, School, and Content Creation](https://ytcards.demolab.com/?id=YOUR_VIDEO_ID2&title=Balancing+Code%2C+School%2C+and+Content+Creation&lang=en&timestamp=1760552100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=270 "Balancing Code, School, and Content Creation")](https://www.youtube.com/watch?v=YOUR_VIDEO_ID2)
-[![Building in Public as a Student Developer](https://ytcards.demolab.com/?id=YOUR_VIDEO_ID3&title=Building+in+Public+as+a+Student+Developer&lang=en&timestamp=1758908426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=240 "Building in Public as a Student Developer")](https://www.youtube.com/watch?v=YOUR_VIDEO_ID3)
 <!-- YOUTUBE-CARDS:END -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20for%20More-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1)
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20for%20More-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@ifechukwuokuma)
