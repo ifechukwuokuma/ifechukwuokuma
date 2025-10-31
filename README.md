@@ -8,6 +8,6 @@
 🌸 On a mission to become a visionary builder, confident speaker, and creative problem solver
 
 <!-- GitHub stats -->
-[![Precious's GitHub stats]([https://github-readme-stats.vercel.app/api?username=ifechukwuokuma&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=ifechukwuokuma&show_icons=true&theme=tokyonight
-))
+[![Precious's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifechukwuokuma&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
