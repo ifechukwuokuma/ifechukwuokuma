@@ -17,7 +17,7 @@ jobs:
       - name: Update README with latest YouTube videos
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCipSxT7a3rn81vGLw9lqRkg # your channel ID
+          channel_id: UCASwkw77f5Y7GoAKL16F8sg # your channel ID
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           comment_tag_name: YOUTUBE-CARDS
           max_videos: 3
