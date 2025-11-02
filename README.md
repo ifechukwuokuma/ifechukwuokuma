@@ -1,4 +1,4 @@
-👋 Hi, I'm Ifechukwu Okuma!  
+# 👋 Hi, I'm Ifechukwu Okuma!  
 
 💻 Software Developer & Creative sharing my journey of building, learning, and growing in tech  
 🎓 Studying Computer Science at the University of Ibadan, Nigeria  
