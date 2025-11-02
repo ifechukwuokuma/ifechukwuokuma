@@ -38,4 +38,4 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20for%20More-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20for%20More-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@ifechukwuokuma?sub_confirmation=1)
