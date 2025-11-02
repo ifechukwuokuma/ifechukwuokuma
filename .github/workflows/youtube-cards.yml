@@ -1,31 +1,17 @@
-name: Update YouTube Videos - Ifechukwu Okuma
-
+name: GitHub Readme YouTube Cards
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    # Runs every hour, on the hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  update:
+  deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Update README with latest YouTube videos
-        uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCASwkw77f5Y7GoAKL16F8sg # your channel ID
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          channel_id: UCASwkw77f5Y7GoAKL16F8sg
           comment_tag_name: YOUTUBE-CARDS
-          max_videos: 3
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
-          card_width: 250
-          border_radius: 5
-          background_color: "#0d1117"
-          title_color: "#ffffff"
-          stats_color: "#dedede"
-          commit_message: "docs(readme): update YouTube cards"
-          readme_path: README.md
