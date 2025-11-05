@@ -29,9 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Don’t fall for “double your money” platforms #InvestmentScam](https://ytcards.demolab.com/?id=X4zPsqt_RCE&title=Don%E2%80%99t+fall+for+%E2%80%9Cdouble+your+money%E2%80%9D+platforms+%23InvestmentScam&lang=en&timestamp=1762356460&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Don’t fall for “double your money” platforms #InvestmentScam")](https://www.youtube.com/shorts/X4zPsqt_RCE)
 [![No backend? No problem! #DeveloperTips #GitHubTips #DeveloperPortfolio](https://ytcards.demolab.com/?id=Kg_o9fSRm14&title=No+backend%3F+No+problem%21+%23DeveloperTips+%23GitHubTips+%23DeveloperPortfolio&lang=en&timestamp=1762278110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "No backend? No problem! #DeveloperTips #GitHubTips #DeveloperPortfolio")](https://www.youtube.com/shorts/Kg_o9fSRm14)
 [![Learn full-stack development for FREE FreeCodeCamp is so underrated. @freecodecamp  #LearnToCode](https://ytcards.demolab.com/?id=2YUpjarOT9k&title=Learn+full-stack+development+for+FREE+FreeCodeCamp+is+so+underrated.+%40freecodecamp++%23LearnToCode&lang=en&timestamp=1761678805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn full-stack development for FREE FreeCodeCamp is so underrated. @freecodecamp  #LearnToCode")](https://www.youtube.com/shorts/2YUpjarOT9k)
-[![Don’t wait for January. Start your  2025 goals and mindset shift ￼now.#MindsetReset #BecomingHer](https://ytcards.demolab.com/?id=lZ_63F2iwY4&title=Don%E2%80%99t+wait+for+January.+Start+your++2025+goals+and+mindset+shift+%EF%BF%BCnow.%23MindsetReset+%23BecomingHer&lang=en&timestamp=1761513481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Don’t wait for January. Start your  2025 goals and mindset shift ￼now.#MindsetReset #BecomingHer")](https://www.youtube.com/shorts/lZ_63F2iwY4)
 <!-- END YOUTUBE-CARDS -->
 
 
