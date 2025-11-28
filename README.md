@@ -29,9 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Idc if I have to restart a million times. I won’t settle for a life I don’t want](https://ytcards.demolab.com/?id=i0dDaEZpwZ8&title=Idc+if+I+have+to+restart+a+million+times.+I+won%E2%80%99t+settle+for+a+life+I+don%E2%80%99t+want&lang=en&timestamp=1764318251&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Idc if I have to restart a million times. I won’t settle for a life I don’t want")](https://www.youtube.com/shorts/i0dDaEZpwZ8)
 [![Stop Trying to Change Your Whole Life in 30 Days.Pick one focus. Stay consistent. Let it compound.](https://ytcards.demolab.com/?id=h2v18BEXV-E&title=Stop+Trying+to+Change+Your+Whole+Life+in+30+Days.Pick+one+focus.+Stay+consistent.+Let+it+compound.&lang=en&timestamp=1764272074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stop Trying to Change Your Whole Life in 30 Days.Pick one focus. Stay consistent. Let it compound.")](https://www.youtube.com/shorts/h2v18BEXV-E)
 [![@IamdoechiiTV  bet on her delusion. It worked so I’m doing the same.](https://ytcards.demolab.com/?id=DJwULZ-GT4k&title=%40IamdoechiiTV++bet+on+her+delusion.+It+worked+so+I%E2%80%99m+doing+the+same.&lang=en&timestamp=1764168691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "@IamdoechiiTV  bet on her delusion. It worked so I’m doing the same.")](https://www.youtube.com/shorts/DJwULZ-GT4k)
-[![I did something extra today #influencer  #FilmingInPublic#ContentCreatorJourney#LevelUpEra#vlog](https://ytcards.demolab.com/?id=ynTsypGdXv0&title=I+did+something+extra+today+%23influencer++%23FilmingInPublic%23ContentCreatorJourney%23LevelUpEra%23vlog&lang=en&timestamp=1764106397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I did something extra today #influencer  #FilmingInPublic#ContentCreatorJourney#LevelUpEra#vlog")](https://www.youtube.com/shorts/ynTsypGdXv0)
 <!-- END YOUTUBE-CARDS -->
 
 
