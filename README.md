@@ -8,6 +8,12 @@
 🌸 On a mission to become a visionary builder, confident speaker, and creative problem solver
 
 <!-- GitHub stats -->
+<!-- Reliable badges (fallback to shields while stats API is down) -->
+![GitHub followers](https://img.shields.io/github/followers/ifechukwuokuma?style=social) 
+![Top language](https://img.shields.io/github/languages/top/ifechukwuokuma/portfolio)
+![Repo stars](https://img.shields.io/github/stars/ifechukwuokuma/portfolio)
+
+<!-- Optional: try the github-readme-stats card (may return 503 if service is down) -->
 [![Precious's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifechukwuokuma&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Tech Stack
