@@ -29,9 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Startups… we need to talk.#StartupTruths #UXFails #ProductDesign #AppDesign #TechCreator](https://ytcards.demolab.com/?id=cT3hGrw9vyM&title=Startups%E2%80%A6+we+need+to+talk.%23StartupTruths+%23UXFails+%23ProductDesign+%23AppDesign+%23TechCreator&lang=en&timestamp=1765466222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Startups… we need to talk.#StartupTruths #UXFails #ProductDesign #AppDesign #TechCreator")](https://www.youtube.com/shorts/cT3hGrw9vyM)
 [![just because they’re planning to do the same thing later? #SelfGrowth](https://ytcards.demolab.com/?id=pat546tA8aw&title=just+because+they%E2%80%99re+planning+to+do+the+same+thing+later%3F+%23SelfGrowth&lang=en&timestamp=1764782652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "just because they’re planning to do the same thing later? #SelfGrowth")](https://www.youtube.com/shorts/pat546tA8aw)
 [![YouTube is your degree.I’m a proud alum of the University of YouTube😅 #SelfTaughtDev](https://ytcards.demolab.com/?id=o-nJfxDhQUE&title=YouTube+is+your+degree.I%E2%80%99m+a+proud+alum+of+the+University+of+YouTube%F0%9F%98%85+%23SelfTaughtDev&lang=en&timestamp=1764780799&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "YouTube is your degree.I’m a proud alum of the University of YouTube😅 #SelfTaughtDev")](https://www.youtube.com/shorts/o-nJfxDhQUE)
-[![It took me one week to rebuild my portfolio #BecomingHerInTech #PortfolioReveal #WebDevJourney](https://ytcards.demolab.com/?id=q2H-qwt0Q7Y&title=It+took+me+one+week+to+rebuild+my+portfolio+%23BecomingHerInTech+%23PortfolioReveal+%23WebDevJourney&lang=en&timestamp=1764778722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "It took me one week to rebuild my portfolio #BecomingHerInTech #PortfolioReveal #WebDevJourney")](https://www.youtube.com/shorts/q2H-qwt0Q7Y)
 <!-- END YOUTUBE-CARDS -->
 
 
