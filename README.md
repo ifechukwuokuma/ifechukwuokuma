@@ -29,7 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Deleted a 3-year-old account. Started from zero.](https://ytcards.demolab.com/?id=oADbUB-LI0o&title=Deleted+a+3-year-old+account.+Started+from+zero.&lang=en&timestamp=1765655434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Deleted a 3-year-old account. Started from zero.")](https://www.youtube.com/shorts/oADbUB-LI0o)
+[![This is how a projects section should work.#DeveloperPortfolio #FrontendDev](https://ytcards.demolab.com/?id=xRpZUOk_CzA&title=This+is+how+a+projects+section+should+work.%23DeveloperPortfolio+%23FrontendDev&lang=en&timestamp=1765611733&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "This is how a projects section should work.#DeveloperPortfolio #FrontendDev")](https://www.youtube.com/shorts/xRpZUOk_CzA)
+[![Startups… we need to talk.#StartupTruths #UXFails #ProductDesign #AppDesign #TechCreator](https://ytcards.demolab.com/?id=cT3hGrw9vyM&title=Startups%E2%80%A6+we+need+to+talk.%23StartupTruths+%23UXFails+%23ProductDesign+%23AppDesign+%23TechCreator&lang=en&timestamp=1765466222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Startups… we need to talk.#StartupTruths #UXFails #ProductDesign #AppDesign #TechCreator")](https://www.youtube.com/shorts/cT3hGrw9vyM)
 <!-- END YOUTUBE-CARDS -->
 
 
