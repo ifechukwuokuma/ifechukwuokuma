@@ -29,9 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![I stopped copying. I started understanding.#CodingJourney#ProgrammingMindset](https://ytcards.demolab.com/?id=pknVxDakfKs&title=I+stopped+copying.+I+started+understanding.%23CodingJourney%23ProgrammingMindset&lang=en&timestamp=1768905840&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I stopped copying. I started understanding.#CodingJourney#ProgrammingMindset")](https://www.youtube.com/shorts/pknVxDakfKs)
 [![I learned too much and built nothing.#LearnToCode#CodingMistakes#TechTok#DeveloperJourney](https://ytcards.demolab.com/?id=rK9h4IYyqlM&title=I+learned+too+much+and+built+nothing.%23LearnToCode%23CodingMistakes%23TechTok%23DeveloperJourney&lang=en&timestamp=1768900743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I learned too much and built nothing.#LearnToCode#CodingMistakes#TechTok#DeveloperJourney")](https://www.youtube.com/shorts/rK9h4IYyqlM)
 [![Frontend Roadmap for absolute ￼Beginners #LearnToCode#WebDevelopment#CodingForBeginners#WomenInTech](https://ytcards.demolab.com/?id=XWjTQ6COP4g&title=Frontend+Roadmap+for+absolute+%EF%BF%BCBeginners+%23LearnToCode%23WebDevelopment%23CodingForBeginners%23WomenInTech&lang=en&timestamp=1768846649&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Frontend Roadmap for absolute ￼Beginners #LearnToCode#WebDevelopment#CodingForBeginners#WomenInTech")](https://www.youtube.com/shorts/XWjTQ6COP4g)
-[![Detty December for some people.Examoblee for me.#Examoblee#StudentVlog](https://ytcards.demolab.com/?id=UFBpqXAGmJA&title=Detty+December+for+some+people.Examoblee+for+me.%23Examoblee%23StudentVlog&lang=en&timestamp=1766656498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Detty December for some people.Examoblee for me.#Examoblee#StudentVlog")](https://www.youtube.com/shorts/UFBpqXAGmJA)
 <!-- END YOUTUBE-CARDS -->
 
 
