@@ -29,7 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Community matters.Don’t build alone.#WomenInTech#GirlsInTech#SheCodeAfrica#TechCommunity#TechNigeria](https://ytcards.demolab.com/?id=iHzhKhk6vj4&title=Community+matters.Don%E2%80%99t+build+alone.%23WomenInTech%23GirlsInTech%23SheCodeAfrica%23TechCommunity%23TechNigeria&lang=en&timestamp=1768915044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Community matters.Don’t build alone.#WomenInTech#GirlsInTech#SheCodeAfrica#TechCommunity#TechNigeria")](https://www.youtube.com/shorts/iHzhKhk6vj4)
+[![I stopped copying. I started understanding.#CodingJourney#ProgrammingMindset](https://ytcards.demolab.com/?id=pknVxDakfKs&title=I+stopped+copying.+I+started+understanding.%23CodingJourney%23ProgrammingMindset&lang=en&timestamp=1768905840&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I stopped copying. I started understanding.#CodingJourney#ProgrammingMindset")](https://www.youtube.com/shorts/pknVxDakfKs)
+[![I learned too much and built nothing.#LearnToCode#CodingMistakes#TechTok#DeveloperJourney](https://ytcards.demolab.com/?id=rK9h4IYyqlM&title=I+learned+too+much+and+built+nothing.%23LearnToCode%23CodingMistakes%23TechTok%23DeveloperJourney&lang=en&timestamp=1768900743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I learned too much and built nothing.#LearnToCode#CodingMistakes#TechTok#DeveloperJourney")](https://www.youtube.com/shorts/rK9h4IYyqlM)
 <!-- END YOUTUBE-CARDS -->
 
 
