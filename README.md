@@ -29,9 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![You don’t need a UI/UX title.You need to understand users — or your features will fail.](https://ytcards.demolab.com/?id=YLxQ7rj2U5A&title=You+don%E2%80%99t+need+a+UI%2FUX+title.You+need+to+understand+users+%E2%80%94+or+your+features+will+fail.&lang=en&timestamp=1770327616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "You don’t need a UI/UX title.You need to understand users — or your features will fail.")](https://www.youtube.com/shorts/YLxQ7rj2U5A)
 [![Python is broad, stop trying to learn everything.Build beginner projects to understand fundamentals.](https://ytcards.demolab.com/?id=Q45LY1IkiHw&title=Python+is+broad%2C+stop+trying+to+learn+everything.Build+beginner+projects+to+understand+fundamentals.&lang=en&timestamp=1770319917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python is broad, stop trying to learn everything.Build beginner projects to understand fundamentals.")](https://www.youtube.com/shorts/Q45LY1IkiHw)
 [![I connected it straight to WhatsApp instead of using a dashboard or backend.](https://ytcards.demolab.com/?id=ulDQsYk8fO8&title=I+connected+it+straight+to+WhatsApp+instead+of+using+a+dashboard+or+backend.&lang=en&timestamp=1769710091&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I connected it straight to WhatsApp instead of using a dashboard or backend.")](https://www.youtube.com/shorts/ulDQsYk8fO8)
-[![These are the JavaScript projects I built to really understand the language.](https://ytcards.demolab.com/?id=INTM6AV3NYU&title=These+are+the+JavaScript+projects+I+built+to+really+understand+the+language.&lang=en&timestamp=1769628345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "These are the JavaScript projects I built to really understand the language.")](https://www.youtube.com/shorts/INTM6AV3NYU)
 <!-- END YOUTUBE-CARDS -->
 
 
