@@ -29,9 +29,7 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I connected it straight to WhatsApp instead of using a dashboard or backend.](https://ytcards.demolab.com/?id=ulDQsYk8fO8&title=I+connected+it+straight+to+WhatsApp+instead+of+using+a+dashboard+or+backend.&lang=en&timestamp=1769710091&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I connected it straight to WhatsApp instead of using a dashboard or backend.")](https://www.youtube.com/shorts/ulDQsYk8fO8)
-[![These are the JavaScript projects I built to really understand the language.](https://ytcards.demolab.com/?id=INTM6AV3NYU&title=These+are+the+JavaScript+projects+I+built+to+really+understand+the+language.&lang=en&timestamp=1769628345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "These are the JavaScript projects I built to really understand the language.")](https://www.youtube.com/shorts/INTM6AV3NYU)
-[![Some projects are just for learning purposes￼ #LearnToCode](https://ytcards.demolab.com/?id=gH7dRt3WoQo&title=Some+projects+are+just+for+learning+purposes%EF%BF%BC+%23LearnToCode&lang=en&timestamp=1769523641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Some projects are just for learning purposes￼ #LearnToCode")](https://www.youtube.com/shorts/gH7dRt3WoQo)
+
 <!-- END YOUTUBE-CARDS -->
 
 
