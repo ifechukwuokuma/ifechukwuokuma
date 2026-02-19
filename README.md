@@ -29,9 +29,7 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Part 1 | I’m a CS student. At some point, all I could write was ‘Hello World.’ #computerscience](https://ytcards.demolab.com/?id=UcVVdr9XkC4&title=Part+1+%7C+I%E2%80%99m+a+CS+student.+At+some+point%2C+all+I+could+write+was+%E2%80%98Hello+World.%E2%80%99+%23computerscience&lang=en&timestamp=1771438856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Part 1 | I’m a CS student. At some point, all I could write was ‘Hello World.’ #computerscience")](https://www.youtube.com/shorts/UcVVdr9XkC4)
-[![Ep 1 | @AdamaLorna  reminds me that communication is a real skill in tech.#SheTech](https://ytcards.demolab.com/?id=ww3wgevLQRE&title=Ep+1+%7C+%40AdamaLorna++reminds+me+that+communication+is+a+real+skill+in+tech.%23SheTech&lang=en&timestamp=1771399691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ep 1 | @AdamaLorna  reminds me that communication is a real skill in tech.#SheTech")](https://www.youtube.com/shorts/ww3wgevLQRE)
-[![You don’t need a UI/UX title.You need to understand users — or your features will fail.](https://ytcards.demolab.com/?id=YLxQ7rj2U5A&title=You+don%E2%80%99t+need+a+UI%2FUX+title.You+need+to+understand+users+%E2%80%94+or+your+features+will+fail.&lang=en&timestamp=1770327616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "You don’t need a UI/UX title.You need to understand users — or your features will fail.")](https://www.youtube.com/shorts/YLxQ7rj2U5A)
+
 <!-- END YOUTUBE-CARDS -->
 
 
