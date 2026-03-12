@@ -29,7 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Ep 4 | In She-Tech, I’m spotlighting Ume Habiba #SheTech](https://ytcards.demolab.com/?id=ocBHxg2wZIw&title=Ep+4+%7C+In+She-Tech%2C+I%E2%80%99m+spotlighting+Ume+Habiba+%23SheTech&lang=en&timestamp=1771961420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ep 4 | In She-Tech, I’m spotlighting Ume Habiba #SheTech")](https://www.youtube.com/shorts/ocBHxg2wZIw)
+[![Ep 3 | She-Tech spotlight: @anjaligama  explains tech concepts simply. Worth watching. #SheTech](https://ytcards.demolab.com/?id=HJNVpk5O5FY&title=Ep+3+%7C+She-Tech+spotlight%3A+%40anjaligama++explains+tech+concepts+simply.+Worth+watching.+%23SheTech&lang=en&timestamp=1771961400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ep 3 | She-Tech spotlight: @anjaligama  explains tech concepts simply. Worth watching. #SheTech")](https://www.youtube.com/shorts/HJNVpk5O5FY)
+[![Ep 2 | In this episode of She-Tech, we are spotlighting ￼￼Oluwaseun Alabi  #SheTech](https://ytcards.demolab.com/?id=ISrKidoFv_g&title=Ep+2+%7C+In+this+episode+of+She-Tech%2C+we+are+spotlighting+%EF%BF%BC%EF%BF%BCOluwaseun+Alabi++%23SheTech&lang=en&timestamp=1771872350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ep 2 | In this episode of She-Tech, we are spotlighting ￼￼Oluwaseun Alabi  #SheTech")](https://www.youtube.com/shorts/ISrKidoFv_g)
 <!-- END YOUTUBE-CARDS -->
 
 
