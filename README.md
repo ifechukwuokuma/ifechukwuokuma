@@ -29,9 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![I’m talking to you…and I’m talking to myself too.](https://ytcards.demolab.com/?id=tmgxdk7aEdU&title=I%E2%80%99m+talking+to+you%E2%80%A6and+I%E2%80%99m+talking+to+myself+too.&lang=en&timestamp=1774882745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I’m talking to you…and I’m talking to myself too.")](https://www.youtube.com/shorts/tmgxdk7aEdU)
 [![If you keep abandoning coding projects, it’s not motivation—it’s lack of structure.](https://ytcards.demolab.com/?id=UkhkfbL0_2g&title=If+you+keep+abandoning+coding+projects%2C+it%E2%80%99s+not+motivation%E2%80%94it%E2%80%99s+lack+of+structure.&lang=en&timestamp=1773782052&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "If you keep abandoning coding projects, it’s not motivation—it’s lack of structure.")](https://www.youtube.com/shorts/UkhkfbL0_2g)
 [![here’s a little introduction before we continue #GetToKnowMe](https://ytcards.demolab.com/?id=0_rBXiOy6Oc&title=here%E2%80%99s+a+little+introduction+before+we+continue+%23GetToKnowMe&lang=en&timestamp=1773674986&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "here’s a little introduction before we continue #GetToKnowMe")](https://www.youtube.com/shorts/0_rBXiOy6Oc)
-[![Ep 4 | In She-Tech, I’m spotlighting Ume Habiba #SheTech](https://ytcards.demolab.com/?id=ocBHxg2wZIw&title=Ep+4+%7C+In+She-Tech%2C+I%E2%80%99m+spotlighting+Ume+Habiba+%23SheTech&lang=en&timestamp=1771961420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ep 4 | In She-Tech, I’m spotlighting Ume Habiba #SheTech")](https://www.youtube.com/shorts/ocBHxg2wZIw)
 <!-- END YOUTUBE-CARDS -->
 
 
