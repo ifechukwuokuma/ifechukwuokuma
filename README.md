@@ -29,7 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Building a system to manage my Finance better.  #Behindthebuild #pennymind](https://ytcards.demolab.com/?id=CaHe0_8uULQ&title=Building+a+system+to+manage+my+Finance+better.++%23Behindthebuild+%23pennymind&lang=en&timestamp=1775299088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Building a system to manage my Finance better.  #Behindthebuild #pennymind")](https://www.youtube.com/shorts/CaHe0_8uULQ)
+[![I said I’d take LinkedIn seriously…#linkedinwithme](https://ytcards.demolab.com/?id=nMD7oYrjBcc&title=I+said+I%E2%80%99d+take+LinkedIn+seriously%E2%80%A6%23linkedinwithme&lang=en&timestamp=1775149430&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I said I’d take LinkedIn seriously…#linkedinwithme")](https://www.youtube.com/shorts/nMD7oYrjBcc)
+[![I’m talking to you…and I’m talking to myself too.](https://ytcards.demolab.com/?id=tmgxdk7aEdU&title=I%E2%80%99m+talking+to+you%E2%80%A6and+I%E2%80%99m+talking+to+myself+too.&lang=en&timestamp=1774882745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I’m talking to you…and I’m talking to myself too.")](https://www.youtube.com/shorts/tmgxdk7aEdU)
 <!-- END YOUTUBE-CARDS -->
 
 
