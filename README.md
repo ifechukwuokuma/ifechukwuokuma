@@ -29,7 +29,9 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![I was frustrated because it felt like nothing was changing.So I went back to my old videos](https://ytcards.demolab.com/?id=WaXKsZnitXc&title=I+was+frustrated+because+it+felt+like+nothing+was+changing.So+I+went+back+to+my+old+videos&lang=en&timestamp=1775846341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I was frustrated because it felt like nothing was changing.So I went back to my old videos")](https://www.youtube.com/shorts/WaXKsZnitXc)
+[![Building a system to manage my Finance better.  #Behindthebuild #pennymind](https://ytcards.demolab.com/?id=CaHe0_8uULQ&title=Building+a+system+to+manage+my+Finance+better.++%23Behindthebuild+%23pennymind&lang=en&timestamp=1775299088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Building a system to manage my Finance better.  #Behindthebuild #pennymind")](https://www.youtube.com/shorts/CaHe0_8uULQ)
+[![I said I’d take LinkedIn seriously…#linkedinwithme](https://ytcards.demolab.com/?id=nMD7oYrjBcc&title=I+said+I%E2%80%99d+take+LinkedIn+seriously%E2%80%A6%23linkedinwithme&lang=en&timestamp=1775149430&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I said I’d take LinkedIn seriously…#linkedinwithme")](https://www.youtube.com/shorts/nMD7oYrjBcc)
 <!-- END YOUTUBE-CARDS -->
 
 
