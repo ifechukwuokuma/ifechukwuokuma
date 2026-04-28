@@ -29,9 +29,7 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Damn! I look cutethe girl who never looked in the mirror is finally looking. #cuttingmyhair](https://ytcards.demolab.com/?id=nUIOtcXbIjs&title=Damn%21+I+look+cute%0Dthe+girl+who+never+looked+in+the+mirror+is+finally+looking.+%23cuttingmyhair&lang=en&timestamp=1776852496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Damn! I look cutethe girl who never looked in the mirror is finally looking. #cuttingmyhair")](https://www.youtube.com/shorts/nUIOtcXbIjs)
-[![now build yours #ChromeExtension #LearnToCode #JavaScript #project #Developer](https://ytcards.demolab.com/?id=t51nTfCxi7M&title=now+build+yours+%23ChromeExtension+%23LearnToCode+%23JavaScript+%23project+%23Developer&lang=en&timestamp=1776264284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "now build yours #ChromeExtension #LearnToCode #JavaScript #project #Developer")](https://www.youtube.com/shorts/t51nTfCxi7M)
-[![I was frustrated because it felt like nothing was changing.So I went back to my old videos](https://ytcards.demolab.com/?id=WaXKsZnitXc&title=I+was+frustrated+because+it+felt+like+nothing+was+changing.So+I+went+back+to+my+old+videos&lang=en&timestamp=1775846341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I was frustrated because it felt like nothing was changing.So I went back to my old videos")](https://www.youtube.com/shorts/WaXKsZnitXc)
+
 <!-- END YOUTUBE-CARDS -->
 
 
