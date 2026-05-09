@@ -29,9 +29,7 @@
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![stop lying to yourself. #HonestWithYourself #ThinkingOutLoud #Mindset](https://ytcards.demolab.com/?id=WpSoZHnfsaM&title=stop+lying+to+yourself.+%23HonestWithYourself+%23ThinkingOutLoud+%23Mindset&lang=en&timestamp=1778166008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "stop lying to yourself. #HonestWithYourself #ThinkingOutLoud #Mindset")](https://www.youtube.com/shorts/WpSoZHnfsaM)
-[![What are the daily things you can do that will compound into the result you want?](https://ytcards.demolab.com/?id=7k9VUXGrrCk&title=What+are+the+daily+things+you+can+do+that+will+compound+into+the+result+you+want%3F&lang=en&timestamp=1778164202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What are the daily things you can do that will compound into the result you want?")](https://www.youtube.com/shorts/7k9VUXGrrCk)
-[![I’ve never relied on luck. What people call luck is usually the result of work nobody saw.](https://ytcards.demolab.com/?id=9WdVvjWDEAU&title=I%E2%80%99ve+never+relied+on+luck.+What+people+call+luck+is+usually+the+result+of+work+nobody+saw.&lang=en&timestamp=1778162090&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I’ve never relied on luck. What people call luck is usually the result of work nobody saw.")](https://www.youtube.com/shorts/9WdVvjWDEAU)
+
 <!-- END YOUTUBE-CARDS -->
 
 
